@@ -1,3 +1,6 @@
+#encoding='utf-8'
+#extract_tags.py
+
 import sys
 sys.path.append('../')
 
